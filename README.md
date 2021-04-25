@@ -1,4 +1,4 @@
 # BI-dashboard-1
 
-Analisis de ventas
-comparacion de presupuesto vs. estado actual
+1.Analisis de ventas
+2.Comparacion de presupuesto vs. estado actual
